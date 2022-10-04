@@ -1,5 +1,5 @@
 ﻿trigger:
-- main
+- 'main'
 
 pool:
   vmImage: 'ubuntu-20.04'
